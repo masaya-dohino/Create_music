@@ -35,7 +35,8 @@ https://tips-memo.com/vae-pytorch
 
 
 ## 構築した深層学習モデル
-
+一緒に取り組んだ友人が作ってくれた図
+https://github.com/Jumpei-Fujita
 
 ![vaezu](https://user-images.githubusercontent.com/57475794/89714522-414ec280-d9da-11ea-891d-a64c595768df.png)
 
