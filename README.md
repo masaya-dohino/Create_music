@@ -1,5 +1,6 @@
 # VAEニューラルネットワークアーキテクチャを用いた音楽生成
 目的：VAEを用いて、入力楽曲のデータの特徴を捉えた音楽を生成する。
+jupyter notebookが表示されないときは nbviewer(https://nbviewer.jupyter.org/)で見る。
 
 ## VAE（Variational AutoEncoder）とは
 ### AutoEncoderとは
